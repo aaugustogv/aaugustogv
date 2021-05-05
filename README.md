@@ -1,7 +1,7 @@
 ### Opa! 👋
 
 
-## 💜 Olá, meu nome é <strong>André Viana!</strong>
+## 💜 Olá, meu nome é <strong>André Viana!</strong> <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 > Sou lá de Cabedelo - João Pessoa -PB
 
