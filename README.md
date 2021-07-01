@@ -14,6 +14,7 @@ Atualmente procuro vagas no time para Desenvolvedor de Aplicações utilizando t
 🔭 Atualmente faço projetos no estilo "by my self" kk, para tomar conhecimento e práticas das linguagens que hoje estou em foco
 
 💬 Você pode entrar em contato comigo no meu Instagram: @__ambiente
+🎯 E também meu telefone para contato: (83) 99900-2705
 
 ----
 
