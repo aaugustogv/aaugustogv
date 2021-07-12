@@ -34,7 +34,7 @@ Atualmente procuro vagas no time para Desenvolvedor de Aplicações utilizando t
 ```javascript
 const codeAndre = {
     goals: ["Make my dreams come true"],
-    code: [Angular, Javascript, HTML, CSS],
+    code: ["Angular", "Javascript", "TypeScript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
         frontEnd: {
