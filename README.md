@@ -34,5 +34,26 @@ Atualmente procuro vagas no time para Desenvolvedor de Aplicações utilizando t
 
 ---
 
+### aboutMe.ts
+
+```javascript
+const codeAndre = {
+    dreams: [Make my dreams come true],
+    code: [Angular, Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "tech", "cryptos", "musicas", "freedom"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["firebase", "MySQL", "NoSQL"]
+        }        
+    }
+};
+
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAndre&show_icons=true)
+
+<p align="center">
+Dá uma sacada nos meus repositórios⬇️  
+</p>
