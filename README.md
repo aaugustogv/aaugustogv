@@ -33,7 +33,7 @@ Atualmente procuro vagas no time para Desenvolvedor de Aplicações utilizando t
 
 ```javascript
 const codeAndre = {
-    dreams: [Make my dreams come true],
+    dreams: ["Make my dreams come true"],
     code: [Angular, Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
