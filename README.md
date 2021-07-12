@@ -14,8 +14,8 @@ Atualmente procuro vagas no time para Desenvolvedor de Aplicações utilizando t
 🔭 Atualmente faço projetos no estilo "by my self" kk, para tomar conhecimento e práticas das linguagens que hoje estou em foco
 
 💬 Você pode entrar em contato comigo no meu Instagram: @__ambiente <br>
-🎯 E também meu telefone para contato: (83) 99900-2705
-[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Viana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrevianacode/)](https://www.linkedin.com/in/andrevianacode/) 
+🎯 E também meu telefone para contato: (83) 99900-2705 <br>
+[![Linkedin Badge](https://img.shields.io/badge/-Andre%20Viana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrevianacode/)](https://www.linkedin.com/in/andrevianacode/) <br>
 [![Gmail Badge](https://img.shields.io/badge/-code.andre3@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.andre3@gmail.com)](mailto:code.andre3@gmail.com)
 
 ## 🚀 Minhas Skills
