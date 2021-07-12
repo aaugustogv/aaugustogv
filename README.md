@@ -29,7 +29,6 @@ Atualmente procuro vagas no time para Desenvolvedor de Aplicações utilizando t
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 
 ---
@@ -40,16 +39,17 @@ Atualmente procuro vagas no time para Desenvolvedor de Aplicações utilizando t
 const codeAndre = {
     dreams: [Make my dreams come true],
     code: [Angular, Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "cryptos", "musicas", "freedom"],
+    askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["bootstrap", "myMind"]
         },
         backEnd: {
             js: ["firebase", "MySQL", "NoSQL"]
         }        
     }
 };
+```
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAndre&show_icons=true)
