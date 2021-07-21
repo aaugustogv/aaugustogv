@@ -38,7 +38,7 @@ const codeAndre = {
     askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "myMind"]
+            css: ["bootstrap", "myMind", "angular 9+"]
         },
         backEnd: {
             js: ["firebase", "MySQL", "NoSQL"]
