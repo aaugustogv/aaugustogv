@@ -41,7 +41,7 @@ const codeAndre = {
             css: ["bootstrap", "myMind", "angular 9+"]
         },
         backEnd: {
-            js: ["firebase", "MySQL", "NoSQL"]
+           ["firebase", "MySQL", "NoSQL"]
         }        
     }
 };
