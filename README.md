@@ -28,15 +28,15 @@ Trabalho atualmente na Indra Company como Scum Master
 ```javascript
 const codeAndre = {
     goals: ["Make my dreams come true"],
-    code: ["Angular", "Javascript", "TypeScript", "HTML", "CSS"],
+    code: ["Angular", "Javascript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "myMind", "angular 9+"]
         },
-        backEnd: {
-           ["firebase", "MySQL", "NoSQL", ".NET"]
-        }        
+        agile: { 
+            tools: ["Scrum", "Nexus Scrum", "LEAN", "OKR's", "Kanban"]
+            }
     }
 };
 ```
