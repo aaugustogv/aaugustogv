@@ -5,7 +5,7 @@
 
 > Sou lá de Cabedelo - João Pessoa -PB
 
-Trabalho atualmente na 7EN Company como Scum Master
+Trabalho atualmente na Indra Company como Scum Master
 
 💬 Você pode entrar em contato comigo no meu Instagram: @__ambiente <br>
 🎯 E também meu telefone para contato: (83) 99900-2705 <br>
