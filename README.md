@@ -17,6 +17,7 @@ Trabalho atualmente na Indra Company como Scum Master
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Scrum](https://cdn.iconscout.com/icon/premium/png-256-thumb/agile-2002991-1686291.png)
 
 ---
 
