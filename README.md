@@ -12,7 +12,7 @@ Trabalho atualmente na Indra Company como Scum Master
 [![Linkedin Badge](https://img.shields.io/badge/-Andre%20Viana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrevianacode/)](https://www.linkedin.com/in/andrevianacode/) 
 [![Gmail Badge](https://img.shields.io/badge/-code.andre3@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.andre3@gmail.com)](mailto:code.andre3@gmail.com)
 
-##Ferramentas de Desenvolvimento
+## 🚀 Ferramentas de Desenvolvimento
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
