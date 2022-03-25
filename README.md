@@ -39,7 +39,7 @@ const codeAndre = {
 ```
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAndre&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaugustogv&show_icons=true)
 
 <p align="center">
 Dá uma sacada nos meus repositórios⬇️  
