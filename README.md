@@ -33,8 +33,8 @@ const codeAndre = {
     askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "myMind", "angular 9+"];
-            tech: ["MicroFrontEnd", "GitFlow", "MicroService"];
+            css: ["bootstrap", "myMind", "angular 9+"],
+            tech: ["MicroFrontEnd", "GitFlow", "MicroService"],
             enthusiasm: ["GOlang", "GraphQL", "Agile"]
         },
         agile: { 
