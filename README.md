@@ -5,7 +5,11 @@
 
 > Sou lá de Cabedelo - João Pessoa -PB
 
-Trabalho atualmente na Indra Company como Scum Master
+### Scum Master em Indra Company
+- Atuo em 3 Projetos no Banco do Brasil 
+  - APW Main 
+  - Contas a Receber 
+  - FeatWS
 
 💬 Você pode entrar em contato comigo no meu Instagram: @__ambiente <br>
 🎯 E também meu telefone para contato: (83) 99900-2705 <br>
@@ -29,10 +33,12 @@ const codeAndre = {
     askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "myMind", "angular 9+"]
+            css: ["bootstrap", "myMind", "angular 9+"];
+            tech: ["MicroFrontEnd", "GitFlow", "MicroService"];
+            enthusiasm: ["GOlang", "GraphQL", "Agile"]
         },
         agile: { 
-            tools: ["Scrum", "Nexus Scrum", "LEAN", "OKR's", "Kanban"]
+            tools: ["Scrum", "Nexus Scrum", "LEAN", "OKR's", "Kanban", "XP", "BDD", "PBB"]
             }
     }
 };
