@@ -6,10 +6,15 @@
 > Sou lá de Cabedelo - João Pessoa -PB
 
 ### Scum Master em Indra Company
-- Atuo em 3 Projetos no Banco do Brasil 
+- Atuo em 2 Projetos no Banco do Brasil 
   - APW Main 
-  - Contas a Receber 
   - FeatWS
+
+### Agile Coach em 7EN Company 
+- Melhoria no Desenvolvimento de Times Ágeis 
+- Acompanhamento direto com Scum Master's para a melhoria do Gerenciamento na Sprint 
+- Acompanhamento e Criação de um Backlog do produto de alto valor 
+- Implementação de Agile Mindset 
 
 🎯 E também meu telefone para contato: (83) 99900-2705 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Andre%20Viana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrevianacode/)](https://www.linkedin.com/in/andrevianacode/) 
