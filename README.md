@@ -6,13 +6,15 @@
 > Sou lá de Cabedelo - João Pessoa -PB
 
 ### Scum Master em Indra Company | Minsait
-- Atuo em 3 Projetos no Banco do Brasil 
+- Atuo em 4 Projetos no Banco do Brasil 
   - APW Main 
   - FeatWS
   - BB Light
+  - CFE-acesso
 - Acompanhamento das Squads
 - Condução de Eventos Scrum de alto valor 
 - Extração de Insights e conversas que geram ROI para a empresa 
+- Implementação de Métricas no acompanhamento ágil da Equipe
 - Implementação de Agile Mindset
 
 ### Agile Coach em 7EN Company 
