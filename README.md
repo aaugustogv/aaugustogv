@@ -17,7 +17,7 @@
 - Implementação de Métricas no acompanhamento ágil da Equipe
 - Implementação de Agile Mindset
 
-### Agile Coach em 7EN Company 
+### Agile Expert em 7EN Company 
 - Melhoria no Desenvolvimento de Times Ágeis 
 - Acompanhamento direto com Scum Master's para a melhoria do Gerenciamento na Sprint 
 - Acompanhamento e Criação de um Backlog do produto de alto valor 
