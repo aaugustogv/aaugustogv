@@ -23,7 +23,7 @@
 - Acompanhamento e Criação de um Backlog do produto de alto valor 
 - Implementação de Agile Mindset 
 
-🎯 E também meu telefone para contato: (83) 99900-2705 <br>
+🎯 E também meu telefone para contato: (83) 99840-3880 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Andre%20Viana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrevianacode/)](https://www.linkedin.com/in/andrevianacode/) 
 [![Gmail Badge](https://img.shields.io/badge/-aaugustogv@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.andre3@gmail.com)](mailto:code.andre3@gmail.com)
 
