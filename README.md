@@ -10,7 +10,7 @@
   - APW Main 
   - FeatWS
   - BB Light
-  - CFE-acesso
+  - PlataformaWEB
 - Acompanhamento das Squads
 - Condução de Eventos Scrum de alto valor 
 - Extração de Insights e conversas que geram ROI para a empresa 
