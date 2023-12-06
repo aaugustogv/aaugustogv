@@ -17,21 +17,9 @@
 - Implementação de Métricas no acompanhamento ágil da Equipe
 - Implementação de Agile Mindset
 
-### Agile Expert em 7EN Company 
-- Melhoria no Desenvolvimento de Times Ágeis 
-- Acompanhamento direto com Scum Master's para a melhoria do Gerenciamento na Sprint 
-- Acompanhamento e Criação de um Backlog do produto de alto valor 
-- Implementação de Agile Mindset 
-
 🎯 E também meu telefone para contato: (83) 99840-3880 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Andre%20Viana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrevianacode/)](https://www.linkedin.com/in/andrevianacode/) 
 [![Gmail Badge](https://img.shields.io/badge/-aaugustogv@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:code.andre3@gmail.com)](mailto:code.andre3@gmail.com)
-
-## 🚀 Ferramentas de Desenvolvimento
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ---
 
@@ -40,7 +28,6 @@
 ```javascript
 const codeAndre = {
     goals: ["Make my dreams come true"],
-    code: ["Angular", "Javascript", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "cryptos", "musics", "freedom", "tea"],
     technologies: {
         frontEnd: {
